@@ -1,3 +1,5 @@
+https://colab.research.google.com/drive/1cJIe0OlcqLQQzjP34ZDC_-24s-07w3gH#scrollTo=obQUW_Dh3suF
+
 # Urban Heat Island Analysis in Delhi (2014-2024)
 
 This notebook performs an analysis of Urban Heat Island (UHI) effects and urban expansion in Delhi, India, comparing data from 2014 and 2024. It utilizes Google Earth Engine (GEE) with Landsat 8 satellite imagery to derive key environmental indices.
